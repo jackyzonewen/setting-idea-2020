@@ -1,0 +1,3 @@
+<application>
+  <component name="MavenVersion" vmOptions="-Xmx1024m" mavenHome="/usr/local/Cellar/maven/3.5.4/libexec" />
+</application>

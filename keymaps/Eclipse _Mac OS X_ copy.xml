@@ -1,0 +1,21 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+</keymap>

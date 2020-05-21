@@ -1,0 +1,40 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Extractor" />
+      <item value="when using annotation-based configuration and classpath scanning" />
+      <item value="candidates" />
+      <item value="considered" />
+      <item value="detection" />
+      <item value="Context" />
+      <item value="Aware" />
+      <item value="Company" />
+      <item value="Psi Service" />
+      <item value="Dispatcher" />
+      <item value="view Name Translator" />
+      <item value="example" />
+      <item value="Adapter" />
+      <item value="HttpRequestHandlerAdapter" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_CLASSICAL" value="11" />
+        <entry key="NEPALI" value="1" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180914000206978" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+</application>
