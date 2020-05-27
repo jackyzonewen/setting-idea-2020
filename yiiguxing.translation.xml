@@ -18,9 +18,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="16" />
-        <entry key="CHINESE_CLASSICAL" value="11" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE_CLASSICAL" value="12" />
         <entry key="NEPALI" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
@@ -30,7 +30,6 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180914000206978" />
-        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
