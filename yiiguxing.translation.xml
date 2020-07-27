@@ -30,6 +30,7 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180914000206978" />
+        <option name="primaryLanguage" value="ENGLISH" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
