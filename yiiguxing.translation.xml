@@ -30,10 +30,14 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180914000206978" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
