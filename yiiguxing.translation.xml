@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primary" />
+      <item value="popedom" />
+      <item value="datetime" />
+      <item value="pepodom" />
+      <item value="权限" />
       <item value="Extractor" />
       <item value="when using annotation-based configuration and classpath scanning" />
       <item value="candidates" />
@@ -18,9 +23,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
-        <entry key="CHINESE_CLASSICAL" value="12" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_CLASSICAL" value="13" />
         <entry key="NEPALI" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
@@ -30,15 +36,10 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180914000206978" />
-        <option name="primaryLanguage" value="ENGLISH" />
+        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="ENGLISH" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
