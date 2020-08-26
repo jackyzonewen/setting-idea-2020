@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ref" />
       <item value="primary" />
       <item value="popedom" />
       <item value="datetime" />
@@ -24,8 +25,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="26" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="CHINESE_CLASSICAL" value="13" />
         <entry key="NEPALI" value="1" />
         <entry key="ESPERANTO" value="1" />
