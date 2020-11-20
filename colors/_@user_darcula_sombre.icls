@@ -1,0 +1,29 @@
+<scheme name="_@user_darcula_sombre" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-11-18T14:47:23</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2020-11-18T21:08:12</property>
+    <property name="originalScheme">darcula_sombre</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG M for Powerline" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="36383a" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
