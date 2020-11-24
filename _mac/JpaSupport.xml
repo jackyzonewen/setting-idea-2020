@@ -1,0 +1,14 @@
+<application>
+  <component name="AutoGeneratorSettingsState">
+    <option name="entityPackageName" value="com.dao.commondata.entity" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="inheritedParentClassName" value="com.dao.commondata.entity.EntityBase" />
+    <option name="moduleName" value="common-data_main" />
+    <option name="removeEntityPrefix" value="fa_" />
+    <option name="repositoryPackageName" value="com.dao.commondata.repository" />
+  </component>
+</application>
