@@ -10,5 +10,8 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="MainMenu">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ToggleBookmark" />
 </keymap>
