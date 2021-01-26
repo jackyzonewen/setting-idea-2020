@@ -1,14 +1,16 @@
 <application>
   <component name="AutoGeneratorSettingsState">
-    <option name="entityPackageName" value="com.dao.commondata.entity" />
+    <option name="entityPackageName" value="com.dy.market.entity" />
+    <option name="entityParentDirectory" value="$USER_HOME$/KBW/onlinemarketserver/src/main/java" />
     <option name="ignoredFields">
       <set>
         <option value="" />
       </set>
     </option>
-    <option name="inheritedParentClassName" value="com.dao.commondata.entity.EntityBase" />
-    <option name="moduleName" value="common-data_main" />
-    <option name="removeEntityPrefix" value="fa_" />
-    <option name="repositoryPackageName" value="com.dao.commondata.repository" />
+    <option name="moduleName" value="onlinemarket_server" />
+    <option name="removeEntityPrefix" value="k_ims_" />
+    <option name="removeFieldPrefix" value="" />
+    <option name="repositoryPackageName" value="com.dy.market.entity" />
+    <option name="repositoryParentDirectory" value="$USER_HOME$/KBW/onlinemarketserver/src/main/java" />
   </component>
 </application>
